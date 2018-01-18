@@ -8,5 +8,6 @@
 
 | Problem | Type |
 | --- | --- |
-| [Longest Palindromic Substring](https://github.com/chrisjob1021/GoCodingProblems/blob/master/longpalsubstr/) | Manacher's Algorithm |
 | [Longest Palindromic Subsequence](https://github.com/chrisjob1021/GoCodingProblems/blob/master/longpalsubseq/) | Dynamic Programming |
+| [Longest Palindromic Substring](https://github.com/chrisjob1021/GoCodingProblems/blob/master/longpalsubstr/) | Manacher's Algorithm |
+| [Partition Equal Subset Sum](https://github.com/chrisjob1021/GoCodingProblems/blob/master/partitionequalsubsetsum/) | Dynamic Programming |
