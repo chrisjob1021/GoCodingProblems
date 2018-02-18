@@ -10,6 +10,7 @@
 | --- | --- |
 | [Coin Change](https://github.com/chrisjob1021/GoCodingProblems/blob/master/coinchange/) | Dynamic Programming |
 | [Coin Change II](https://github.com/chrisjob1021/GoCodingProblems/blob/master/coinchange/) | Dynamic Programming |
+| [Concatenated Words](https://github.com/chrisjob1021/GoCodingProblems/blob/master/concatenatedwords/) | Dynamic Programming |
 | [Longest Common Subsequence](https://github.com/chrisjob1021/GoCodingProblems/blob/master/longcomsubseq/) | Dynamic Programming |
 | [Longest Common Substring](https://github.com/chrisjob1021/GoCodingProblems/blob/master/longcomsubstr/) | Dynamic Programming |
 | [Longest Palindromic Subsequence](https://github.com/chrisjob1021/GoCodingProblems/blob/master/longpalsubseq/) | Dynamic Programming |
